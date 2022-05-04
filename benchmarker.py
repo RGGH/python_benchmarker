@@ -2,7 +2,7 @@
 
 import timeit
 
-def sum_a_lot_of_numbers(number=51040000):
+def sum_a_lot_of_numbers(number=51040030):
     """ function to be run by timeit"""
     sum_total = 0
     while number > 0:
